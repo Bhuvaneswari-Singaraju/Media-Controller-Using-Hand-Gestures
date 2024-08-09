@@ -6,8 +6,8 @@ This project demonstrates how to control media playback on your computer using h
 
 - **Gesture Recognition:** Detects and interprets hand gestures to control media playback.
 - **Media Controls:**
-  - **1 Finger Raised:** Next track
-  - **2 Fingers Raised:** Previous track
+  - **1 Finger Raised:** Forward
+  - **2 Fingers Raised:** Backward
   - **3 Fingers Raised:** Volume up
   - **4 Fingers Raised:** Volume down
   - **5 Fingers Raised:** Play/Pause
