@@ -18,4 +18,4 @@ This project demonstrates how to control media playback on your computer using h
 - **OpenCV:** For video capture and image processing.
 - **MediaPipe:** For hand tracking and landmark detection.
 - **PyAutoGUI:** For simulating keyboard inputs.
-- **Python 3.x:** Programming language used for implementation.
+- **Python 3.7:** Programming language used for implementation.
